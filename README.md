@@ -1,4 +1,4 @@
-# Request Types Demo
+# Response Types Demo
 
 This is a Rails app that demonstrates returning different representations of data for a single resource.
 
